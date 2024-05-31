@@ -6,6 +6,7 @@ This project is about how to maintain your healthy life style your day to day ex
  ## Software Used
 •	Visual Studio Code
 •	BootStrap
+•	aos content animation
 •	Figma
 
 
