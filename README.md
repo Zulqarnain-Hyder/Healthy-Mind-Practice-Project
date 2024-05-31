@@ -3,4 +3,4 @@ This is my Practice Project HealthyMind Where I use Bootstrap 5 and Some custom 
 This project is about how to maintain your healthy life style your day to day excersices and diet.
 
 
-![alt text](ScreenShots\landing-page.png)
+![Landing Page](ScreenShots\landing-page.png)
